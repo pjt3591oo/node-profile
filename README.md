@@ -19,5 +19,5 @@ $ node inspect profile2.js
 on breakpoint `debugger`
 
 ```
-debug> takeHeapSnapshot(filepath = 'node2.heapsnapshot')
+debug> takeHeapSnapshot(filepath = 'node.heapsnapshot')
 ```
